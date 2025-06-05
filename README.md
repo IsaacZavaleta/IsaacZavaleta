@@ -2,11 +2,13 @@
 
 ###
 
-<h4 align="center">🔧 I enjoy building clean, scalable full stack applications using modern technologies. I’m passionate about writing maintainable code, creating efficient backend APIs, crafting responsive frontends, and collaborating in agile teams to deliver complete end-to-end solutions.</h4>
-
-###
+<div>
+    <img height="85" align="right" src="https://github.com/IsaacZavaleta/IsaacZavaleta/blob/main/Resources/d44fad87c8c5197c89d0b83236ecef84.gif"  />
+    <h4 align="center">🔧 I enjoy building clean, scalable full stack applications using modern technologies. I’m passionate about writing maintainable code, creating efficient backend APIs, crafting responsive frontends, and collaborating in agile teams to deliver complete end-to-end solutions.</h4>
+</div>
 
 <div align="center">
+
   <a href="iaaactovarzavaleta@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -16,6 +18,7 @@
 </div>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -53,14 +56,12 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/IsaacZavaleta/IsaacZavaleta/blob/main/Resources/dBfFzH.gif"  />
+<img align="left" height="80" src="https://github.com/IsaacZavaleta/IsaacZavaleta/blob/main/Resources/dBfFzH.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaacZavaleta&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaacZavaleta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=IsaacZavaleta&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaacZavaleta&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaacZavaleta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"/>
+  <img src="https://streak-stats.demolab.com?user=IsaacZavaleta&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="175" alt="streak graph"/>
 </div>
-
-###
