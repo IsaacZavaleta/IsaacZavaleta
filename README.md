@@ -4,7 +4,7 @@
 
 <div>
     <img height="85" align="right" src="https://github.com/IsaacZavaleta/IsaacZavaleta/blob/main/Resources/d44fad87c8c5197c89d0b83236ecef84.gif"  />
-    <h4 align="center">🔧 I enjoy building clean, scalable full stack applications using modern technologies. I’m passionate about writing maintainable code, creating efficient backend APIs, crafting responsive frontends, and collaborating in agile teams to deliver complete end-to-end solutions.</h4>
+    <h4>🔧 I enjoy building clean, scalable full stack applications using modern technologies. I’m passionate about writing maintainable code, creating efficient backend APIs, crafting responsive frontends, and collaborating in agile teams to deliver complete end-to-end solutions.</h4>
 </div>
 
 <div align="center">
