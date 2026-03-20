@@ -1,4 +1,4 @@
-<h2 align="left">I my name is Isaac and i'm a Computer Science graduate .</h2>
+<h2 align="left">I my name is Isaac and i'm a Full Stack Developer.</h2>
 
 ###
 
